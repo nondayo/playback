@@ -11705,6 +11705,7 @@ var blodgett = {
     ]
   },
   "properties": {
+    "path_options" : { "color" : "yellow" },
     "time": [
       1369786338000,
       1369786340000,
@@ -17218,6 +17219,7 @@ var blueMountain = {
     ]
   },
   "properties": {
+    "path_options" : { "color" : "green" },
     "time": [
       1369786338000,
       1369786343000,
@@ -26931,6 +26933,7 @@ var drive = {
     ]
   },
   "properties": {
+    "path_options" : { "color" : "blue" },
     "time": [
       1369786338000,
       1369786340000,
@@ -34838,6 +34841,7 @@ var houseToCoordley = {
     ]
   },
   "properties": {
+    "path_options" : { "color" : "purple" },
     "time": [
       1369786338000,
       1369786345000,
